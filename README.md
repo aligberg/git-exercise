@@ -1,3 +1,2 @@
 # git-exercise
-Why is git so confusing? 
-Did it work???
+Testing 1 2 3...
